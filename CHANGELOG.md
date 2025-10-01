@@ -1,3 +1,8 @@
+
+## [3.1.0-fork.1] - 01.10.2025
+
+* Fix issue with Bad state: No element
+
 ## [3.1.0] - 07.07.2022
 
 * Support for jump/scroll to element
