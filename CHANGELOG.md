@@ -1,4 +1,8 @@
 
+## [3.1.0-fork.2] - 09.04.2026
+
+* Use forked scrollable_positioned_list (0.3.8-fork.1) with fix for ScrollPosition.pixels crash on widget disposal.
+
 ## [3.1.0-fork.1] - 01.10.2025
 
 * Fix issue with Bad state: No element
