@@ -11,7 +11,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  scrollable_positioned_list: ^0.3.8
+  scrollable_positioned_list:
+    git:
+      url: https://github.com/idcapture/flutter.widgets.git
+      path: packages/scrollable_positioned_list
+      ref: 0.3.8-fork.1
   meta: ^1.9.1
 
 dev_dependencies:
